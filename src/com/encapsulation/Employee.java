@@ -29,7 +29,7 @@ public class Employee {
         this.salary = salary;
     }
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Employee fullyEncapsulation = new Employee();
         fullyEncapsulation.setName("Fahmida");
         fullyEncapsulation.setId("1847");
