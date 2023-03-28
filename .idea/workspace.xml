@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4402626e-460f-4ce0-8287-699dbfe18a44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaProject.iml" afterDir="false" />
+    <list default="true" id="4402626e-460f-4ce0-8287-699dbfe18a44" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decisionMakingStatements/JumpStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decisionMakingStatements/StatementOfDecisionMaking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decisionMakingStatements/StatementsOfLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/SingleInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaNamingConvention/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/OverLoading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/Woman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +43,94 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "E:/git/javaProject/src",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git\javaProject\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SingleInheritance">
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.Employee" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.SingleInheritance" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.Student" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teacher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.Teacher" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="University" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.University" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SingleInheritance" />
+        <item itemvalue="Application.University" />
+        <item itemvalue="Application.Teacher" />
+        <item itemvalue="Application.Employee" />
+        <item itemvalue="Application.Student" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,6 +140,14 @@
       <option name="presentableId" value="Default" />
       <updated>1680024846038</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1680025336234</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680025336234</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -57,5 +160,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
